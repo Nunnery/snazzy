@@ -1,5 +1,4 @@
 require 'test_helper'
-require 'minitest/autorun'
 require 'snazzy/errors'
 
 class ErrorsTest < Minitest::Unit::TestCase
