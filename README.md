@@ -4,6 +4,8 @@
 
 [![Test Coverage](https://codeclimate.com/github/Nunnery/snazzy/badges/coverage.svg)](https://codeclimate.com/github/Nunnery/snazzy/coverage)
 
+[![Build Status](https://travis-ci.org/Nunnery/snazzy.svg?branch=master)](https://travis-ci.org/Nunnery/snazzy)
+
 Snazzy is a Ruby Markdown parsing library.
 
 ## Installation
